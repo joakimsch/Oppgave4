@@ -1,6 +1,11 @@
 
 
 // go run github.com/briandowns/openweathermap
+// kjør den i terminalen jokke og jostein
+
+
+
+
 
 // Kjøres igjennom "http://localhost:8001/here"
 
