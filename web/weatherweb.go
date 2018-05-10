@@ -1,5 +1,9 @@
 
+
+// go run github.com/briandowns/openweathermap
+
 // Kjøres igjennom "http://localhost:8001/here"
+
 
 package main
 
